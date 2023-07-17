@@ -14,7 +14,7 @@ public class Transformation extends JFrame {
     private final JLabel transformedPositionLabel;
 
     public Transformation() {
-        setTitle("Transformasi - Inputan Mouse");
+        setTitle("Transformasi - Inputan Mouse dan Keyboard");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(800, 800);
         setLocationRelativeTo(null);
